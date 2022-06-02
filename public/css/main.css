@@ -1,0 +1,133 @@
+body{
+    
+   
+    background:linear-gradient( to right ,rgb(238, 114, 12) ,wheat 70%  ) ;
+}
+
+.img2{
+    width:300px;
+    margin:30px;
+    border: 5px solid green;
+}
+.img{
+    margin: 10px;
+    padding: 50px;
+}
+.img2:hover{
+    transform: scale(1.2);
+}
+.welcome{
+    text-align: center;
+    margin-top: 20px;
+    color: blue;
+    font-size: 80px;
+   
+   
+  
+   
+}
+.welcome:hover{
+    transform: scale(1.2);
+    color: green;
+    font-family: 'Anton', sans-serif;
+
+    font-family: 'Oswald', sans-serif;
+
+    font-family: 'Reem Kufi', sans-serif;
+
+    font-family: 'Rubik Beastly', cursive;
+}
+.create{
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+    font-family: 'Anton', sans-serif;
+
+    font-family: 'Oswald', sans-serif;
+
+    font-family: 'Reem Kufi', sans-serif;
+
+    font-family: 'Rubik Beastly', cursive;
+}
+.create:hover {
+    transform: scale(1.2);
+    color: green;   
+}
+.text{
+    text-align: center;
+    color: rgb(0, 29, 156);
+    font-size: 50px;
+    margin-bottom: 50px;
+    font-family: 'Anton', sans-serif;
+
+    font-family: 'Oswald', sans-serif;
+
+    font-family: 'Reem Kufi', sans-serif;
+
+    font-family: 'Rubik Beastly', cursive;
+}
+.text:hover{
+    transform: scale(1.2);
+    color: green; 
+
+}
+.fa-eye,.fa-edit,.fa-trash-alt{
+   
+     
+     font-size: 20px;
+    font-weight: bold;
+   
+}
+.fa-eye{
+    color: rgb(57, 104, 10);
+}
+.fa-edit{
+color: darkblue;
+}
+.fa-trash-alt{
+    color: red;
+}
+
+/**footer**/
+
+.icons{
+    background:linear-gradient( to right ,rgb(238, 114, 12) ,wheat 70%  ) ;
+
+
+}
+
+.container2{
+    background:linear-gradient( to right ,rgb(238, 114, 12) ,wheat 70%  ) ;
+
+}
+.fab.fa-facebook-square{
+    font-size: 50px;
+    margin-left:40%;
+    color:blue;
+    margin-top: 300px;
+   margin-bottom: 70px;
+  
+}
+.fab.fa-whatsapp-square{
+  font-size: 50px;
+  
+  color: green;
+}
+.fab.fa-instagram-square{
+  font-size: 50px;
+  
+  color:rgb(219, 11, 80)
+}
+.last{
+   margin-top: 200px;
+   margin-left: 60px;
+   color: white;
+}
+h5{
+   color:black;
+}
+
+h6{
+   color:black;
+}
+/** endfooter**/
